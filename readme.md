@@ -4,8 +4,8 @@
 
 ### Viewport example:
 #### Samsumg Galaxy S9/S9+ (Portrait):
-![Portrait](img/S9-portrait.png)
+![Portrait](img/S9-portrait.jpg)
 
 #
 #### Samsumg Galaxy S9/S9+ (Landscape):
-![Landscape](img/S9-landscape.png)
+![Landscape](img/S9-landscape.jpg)
